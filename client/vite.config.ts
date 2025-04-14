@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
+  root: ".", // ya estás dentro de /client
   base: "./",
   plugins: [react()],
   resolve: {
@@ -13,7 +14,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: "public", // 👈 DEBE ser "public", no "dist/public"
+    outDir: "public", // 👈 aquí está el fix real
     emptyOutDir: true,
-  },  
+  },
 });
