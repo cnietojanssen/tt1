@@ -1,0 +1,57 @@
+Añade un botón flotante único en la esquina inferior derecha del sitio web de Tracking Table, que al hacer clic despliegue un menú animado con dos opciones:
+💬 Chatear con IA
+📞 Hablar por WhatsApp
+Este botón debe tener un diseño redondeado, moderno y minimalista. Al abrirse, el menú debe mostrar ambas opciones de forma clara, con animación suave tipo slide o fade. El diseño debe ser mobile-first y 100% responsive, manteniendo la estética premium del sitio (colores: #FF6A00, blanco, negro elegante).
+✅ Funcionalidades del menú:
+💬 Opción 1: Chatear con IA
+
+Al hacer clic, se debe abrir un chatbot inteligente, que actúe como un asistente de ventas y atención al cliente entrenado con el siguiente contenido:
+
+🧠 Contenido que debe conocer el chatbot (respuestas entrenadas):
+🟧 1. ¿Qué es Tracking Table?
+
+Tracking Table es un software de fidelización gastronómica que permite a los restaurantes aumentar sus visitas sin necesidad de aplicaciones. Usa QR, Wallet digital (Apple y Google) y notificaciones geolocalizadas para entregar promociones automáticas a los clientes.
+🟧 2. ¿Cómo funciona el sistema? (resumen paso a paso)
+
+El cliente escanea un QR en la mesa.
+Accede al menú digital del restaurante.
+Se le invita a unirse al sistema de fidelización agregando una tarjeta a su Wallet.
+Recibe promociones, descuentos y beneficios directamente en su Wallet.
+Recibe notificaciones geo-push cuando está cerca del restaurante para volver.
+Todo esto sin necesidad de descargar ninguna app.
+🟧 3. ¿Qué beneficios tiene para el restaurante?
+
+Aumenta visitas recurrentes.
+Mejora la experiencia del cliente.
+Automatiza promociones y campañas.
+Recoge opiniones y feedback.
+Se integra con WhatsApp.
+Ofrece estadísticas de comportamiento del cliente.
+🟧 4. ¿Qué necesita el restaurante para implementarlo?
+
+Solo conexión a internet y un panel de gestión (provisto por nosotros). Nosotros generamos los códigos QR, el acceso a la plataforma, y te ayudamos con la configuración inicial.
+🟧 5. ¿Se necesita que el cliente descargue alguna app?
+
+No. El cliente no necesita instalar nada. Todo se gestiona a través del navegador y la tarjeta se guarda en Apple Wallet o Google Wallet.
+🟧 6. ¿Es compatible con iPhone y Android?
+
+Sí, Tracking Table es totalmente compatible con Apple Wallet (iPhone) y Google Wallet (Android).
+🟧 7. ¿Cuál es el costo o plan de precios?
+
+La plataforma tiene planes personalizados según el tamaño del restaurante. Para recibir una propuesta exacta, puedes solicitar una demo con uno de nuestros asesores.
+🟧 8. ¿Cómo agendo una demo?
+
+Puedes hacerlo escribiendo por WhatsApp directamente desde el sitio o completando el formulario de contacto. ¡Uno de nuestros asesores te guiará paso a paso!
+🟧 9. ¿Qué tipo de negocios pueden usar Tracking Table?
+
+Restaurantes, cafeterías, locales de comida rápida, food trucks, dark kitchens, entre otros. Cualquier negocio que quiera fidelizar clientes y aumentar sus ventas sin fricción.
+🟧 10. ¿Qué diferencia a Tracking Table de otros sistemas?
+
+No requiere apps, la experiencia es fluida, 100% digital, y las notificaciones geolocalizadas hacen que los clientes regresen por sí solos. Además, te conectas con ellos directamente en su celular, sin barreras.
+📞 Opción 2: Hablar por WhatsApp
+Abre el siguiente enlace con mensaje precargado:
+https://wa.me/?text=Hola,+vi+la+página+de+Tracking+Table+y+quiero+saber+más+sobre+cómo+implementar+el+sistema+en+mi+restaurante.
+🧭 Extras visuales y técnicos:
+El botón flotante debe tener efecto hover con animación suave, ícono animado sutil si es posible.
+El menú debe tener animaciones limpias tipo Framer Motion: slide-down o fade-in.
+El chatbot debe tener scroll interno, botón para cerrar, y fondo claro o semi-transparente elegante.

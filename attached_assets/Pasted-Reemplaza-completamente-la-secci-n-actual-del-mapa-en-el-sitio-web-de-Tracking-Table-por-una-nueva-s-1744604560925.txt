@@ -1,0 +1,46 @@
+Reemplaza completamente la sección actual del mapa en el sitio web de Tracking Table por una nueva sección premium enfocada en confianza, validación social y prueba real de uso, que incluya:
+🧾 1. Sección de testimonios de clientes (reemplaza el mapa)
+🎯 Objetivo:
+
+Mostrar cómo restaurantes reales han mejorado su negocio usando Tracking Table, transmitiendo confianza y autoridad.
+
+🧱 Estructura:
+
+Título principal:
+Restaurantes reales que están fidelizando más con Tracking Table
+Subtítulo:
+Conoce la experiencia de quienes ya mejoraron su relación con los clientes.
+Grid visual de testimonios (estilo cards o columnas):
+Foto o avatar del cliente
+Nombre del negocio
+Frase destacada del testimonio
+Opción de insertar video del testimonio (YouTube o archivo incrustado)
+Animación al hacer scroll (fade-in o slide-up)
+🎬 Extras:
+
+Si hay un video, que se muestre un botón “Ver testimonio en video” o un thumbnail con botón de play.
+Diseño limpio y visual, similar a Stripe, Framer o Webflow testimonial sections.
+Totalmente responsivo, optimizado para mobile.
+🧱 2. Slider horizontal de logos de restaurantes afiliados (debajo o separado)
+🎯 Objetivo:
+
+Mostrar visualmente todos los negocios que ya usan Tracking Table mediante un muro de logos tipo carrusel premium.
+
+Estructura:
+
+Título:
++1800 restaurantes ya confían en nosotros
+Slider horizontal automático (loop infinito, velocidad suave)
+Cada logo en escala de grises o color sutil (gris, negro, blanco, naranja si combina)
+Logos adaptables y responsivos en desktop y móvil
+Animación sutil al pasar el mouse (hover efecto de brillo o elevación suave)
+Diseño tipo Apple / Notion: simple, elegante, limpio.
+Extra:
+
+Opcional: logos con tooltip que muestren el nombre del restaurante al pasar el mouse.
+Puede haber botón abajo: “¿Quieres formar parte de esta comunidad?” → scroll al formulario/demo.
+✨ Estilo visual global:
+Espaciado amplio, diseño aireado
+Paleta de Tracking Table: #FF6A00, blanco #FFFFFF, negro elegante #0F0F0F, gris #F4F4F4
+Tipografías modernas (Inter, Poppins)
+Animaciones suaves y ligeras (fade-in, scroll reveal, microinteracciones)

@@ -1,0 +1,113 @@
+Crea una landing page profesional, premium, moderna e impactante para Tracking Table, un software de fidelización gastronómica diseñado para restaurantes.
+El sitio debe estar diseñado con efectos de vanguardia, animaciones suaves tipo Framer Motion, estructura clara, diseño minimalista, estética visual de lujo y funcionalidades inteligentes.
+El diseño debe tener la calidad visual y técnica de plataformas como Webflow, Framer y Apple, debe parecer una web desarrollada y valorada en +50.000 USD.
+🎨 Paleta de colores premium a utilizar:
+Naranja principal (brand): #FF6A00
+Blanco puro (background principal): #FFFFFF
+Negro elegante (texto y acentos fuertes): #0F0F0F
+Gris claro (separadores, fondos secundarios): #F4F4F4
+🎥 Efectos visuales y animaciones (tipo Framer/Webflow):
+Scroll reveal con delay y velocidad suave
+Fade-in y slide-up animaciones para cada sección
+Botones con microinteracción: hover animado, sombra reactiva, pulsación
+Mockups con hover 3D tilt y transiciones suaves
+Navbar sticky con efecto blur + transición de color al hacer scroll
+Transiciones animadas entre secciones con movimiento fluido
+Animaciones de contadores (impactómetro) y estadísticas tipo dashboard
+Sección “Cómo funciona” animada tipo timeline horizontal/vertical con pasos que se activan al hacer scroll
+🧠 Estructura completa de la landing page:
+1. Hero Principal (sección de impacto visual)
+Frase:
+“En Tracking Table hacemos que tu restaurante venda hasta un 30% más en los próximos 2 meses.”
+Subtexto:
+Fideliza a tus clientes con QR + Wallet + Notificaciones sin que descarguen apps.
+Botones:
+“Solicita una demo” (scroll a formulario)
+“Ver cómo funciona” (scroll a sección de funcionamiento)
+Visual:
+Mockup 3D de smartphone realista (iPhone), ligeramente inclinado, con pantalla editable donde se vea la app móvil.
+Animación tipo Framer Motion: fade-in + leve tilt
+Fondo limpio o gradiente suave
+2. ¿Qué es Tracking Table? (Explicación visual animada)
+Cards visuales con íconos o imágenes animadas.
+Breve texto explicativo con scroll reveal.
+Diseño limpio y responsive.
+3. ¿Cómo funciona? (Paso a paso animado)
+Cards horizontales o timeline animado:
+Escanea el QR
+Ve el menú digital
+Guarda Wallet con beneficios
+Recibe notificaciones geo push
+Regresa por más
+Animaciones suaves al pasar de un paso a otro (slide, fade, pulse)
+4. Beneficios (Sección visual con interacciones)
+Grilla de ventajas con íconos animados o efectos al pasar el mouse.
+Estilo responsive y mobile-first.
+Texto + ícono alineado por beneficio:
+Aumenta visitas
+Automatiza promociones
+Sin apps
+Recoge feedback
+Estadísticas en tiempo real
+Integra WhatsApp
+5. Impactómetro visual animado
+Contadores animados con scroll reveal:
++1.856 restaurantes afiliados
++92.000 clientes activos
++24M en ventas generadas
+Estilo tipo dashboard moderno (con íconos sutiles y KPIs)
+6. Simulador Wallet digital
+Mockup que muestre una tarjeta tipo Wallet en Apple o Google Wallet
+Imagen realista con:
+Logo del restaurante
+Beneficio activo
+Fecha/ubicación
+Swipe o animación al hacer hover
+7. Mapa con geolocalización de restaurantes afiliados
+Mapa embebido o visual simulado.
+Pines con logos o íconos de restaurantes.
+Texto superior:
+“Negocios cerca de ti ya fidelizan con Tracking Table”
+8. Sección Comunidad Exclusiva (Club Tracking Table)
+Diseño estilo membresía premium.
+Frase:
+“Únete al Club Tracking Table” – Comunidad privada de dueños que quieren escalar sus ventas.
+Botón: “Acceder a la comunidad” → redirige a WhatsApp, Slack o Discord
+9. Chatbot o Popup de Preguntas Frecuentes
+Botón flotante: “¿Tienes dudas?”
+Chat básico o popup con respuestas automáticas a:
+¿Qué es Tracking Table?
+¿Necesito app?
+¿Cómo funciona?
+¿Cuánto cuesta?
+10. Formulario inteligente (Demo o contacto)
+Diseño moderno, con campos flotantes animados
+Al completarse:
+Correo automático al cliente
+Notificación al equipo
+Registro en Airtable o Notion
+Texto sobre formulario:
+Solicita una demo personalizada para tu restaurante.
+11. Botón flotante de WhatsApp con mensaje predefinido
+Texto del botón: “Habla con nosotros”
+Enlace:
+https://wa.me/?text=Hola,+vi+la+página+de+Tracking+Table+y+quiero+saber+más+sobre+cómo+implementar+el+sistema+en+mi+restaurante.
+12. Footer premium
+Estilo minimalista, fondo gris claro o blanco puro
+Secciones:
+Contacto
+Políticas
+Redes sociales (iconos limpios y responsive)
+Enlace a comunidad
+⚙️ 13. Optimización técnica de nivel profesional
+SEO completo (etiquetas meta, alt, titles optimizados)
+Open Graph para compartir en redes
+Sitemap.xml
+Mobile-first
+Compatible con Lighthouse Score 90+ (performance, accesibilidad, best practices)
+🎯 Resumen del estilo visual general:
+Ultra moderno, con espacios en blanco bien aprovechados
+Fuentes limpias tipo Poppins, Inter o Sora
+Transiciones suaves, microinteracciones y look profesional
+Inspirado en páginas de SaaS de alto nivel
+Cada sección debe sentirse viva, bien animada, sin sobrecargar

@@ -1,0 +1,56 @@
+Crea una nueva sección titulada:
+“Planes simples, resultados extraordinarios”
+Muestra dos tarjetas de precios elegantes y modernas (tipo SaaS), con todos los beneficios incluidos al contratar el sistema Tracking Table.
+Añade también un bloque visual adicional donde se destaquen los beneficios extra que hacen de este software una experiencia premium con soporte real.
+🧱 Estructura de la sección:
+💳 Plan Local Único – $67 USD/mes
+1 restaurante
+Acceso total a Tracking Table
+Panel completo y menú digital
+Wallets ilimitadas
+Email y WhatsApp marketing
+Notificaciones GeoPush
+Soporte en comunidad 24/7
+→ Botón: Comenzar ahora
+
+🏙️ Plan Multi-Sucursal – $97 USD/mes
+Hasta 3 locales
+Acceso total a todas las funciones
+Gestión multi-sucursal desde un solo panel
+Wallets ilimitadas
+Email y WhatsApp marketing
+Notificaciones GeoPush
+Soporte en comunidad 24/7
+→ Botón: Solicitar demo personalizada
+
+🎁 Bloque visual adicional: Beneficios que te acompañan
+🧠 2 sesiones semanales EN VIVO (quedan grabadas)
+
+Implementación guiada paso a paso y asesoría en marketing digital.
+👥 Acceso a la comunidad exclusiva de WhatsApp 24/7
+
+Soporte instantáneo, conexión con otros emprendedores y dudas en tiempo real.
+📚 Acceso a todos los cursos disponibles
+
+Aprende a crecer tu restaurante digitalmente, desde cero hasta escalarlo.
+📊 Construcción de base de datos y CRM
+
+Convierte clientes en contactos fidelizados que vuelven una y otra vez.
+🚀 Wallets infinitas
+
+Crea todas las tarjetas de fidelización que necesites para cada sucursal o campaña.
+💬 Marketing automatizado vía WhatsApp & Email
+
+Campañas, recordatorios, promociones y más desde un solo lugar.
+📍 Notificaciones GeoPush inteligentes
+
+Activa alertas cuando tus clientes estén cerca del local.
+🎯 CTA final (opcional, debajo de la sección):
+¿Tienes más de 3 locales o un proyecto especial?
+👉 Solicita una demo personalizada para empresas
+🎨 Estilo visual:
+Cards modernas y responsivas (tipo Stripe, Webflow, Notion)
+Fondo blanco o gris claro
+Íconos para cada beneficio
+Botones destacados con hover animado
+Microinteracciones premium

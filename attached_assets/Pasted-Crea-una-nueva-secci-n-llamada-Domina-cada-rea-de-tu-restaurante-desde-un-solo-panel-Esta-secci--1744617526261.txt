@@ -1,0 +1,32 @@
+Crea una nueva sección llamada:
+“Domina cada área de tu restaurante desde un solo panel”
+Esta sección debe construirse en formato scroll storytelling donde se muestren, uno por uno, mockups horizontales en laptop simulando el uso real de Tracking Table por parte del administrador del negocio.
+✅ Estructura de cada bloque (repetible por módulo):
+Mockup horizontal (screenshot del sistema real dentro de un marco de laptop moderno)
+A un lado del mockup (o debajo en mobile):
+Título del módulo
+Descripción clara, profesional y breve
+Animación al hacer scroll (tipo fade-in o slide desde abajo)
+Fondo claro, espaciado amplio, diseño estilo SaaS premium
+🧩 Módulos a mostrar (basado en los mockups reales que enviaste):
+Dashboard de Analytics
+Visualiza en tiempo real el total de clientes, edad promedio, nuevos leads y clientes activos. Toma decisiones basadas en datos.
+→ Mostrar mockup con: gráficos de líneas, total de clientes, leads y edad promedio (imagen: analytics dashboard)
+Gestión de Fidelización & Wallet
+Administra programas de fidelización con sello digital, tarjetas virtuales y visualiza el progreso de cada cliente.
+→ Mostrar mockup con: tarjeta digital con estrellas, QR, y datos del cliente (imagen: tarjeta Sugarland)
+Panel de Registro de Clientes
+Genera enlaces, códigos QR o formularios para registrar nuevos clientes desde cualquier canal.
+→ Mostrar mockup con: tabla de “Enlaces de Registro”, QR Mesa, Instagram, escaneos, registros (imagen: enlaces de registro)
+Edición de Apariencia y Marca
+Personaliza la experiencia visual del cliente con los colores, imágenes y textos de tu restaurante.
+→ Mostrar mockup con: edición de colores, imagen Hero y datos del programa de fidelización (imagen: configuración visual)
+🎨 Estilo visual recomendado:
+Mobile-first (mockups se centran al hacer scroll en mobile)
+Laptop moderno como marco visual para los screenshots
+Animaciones suaves (scroll reveal, fade-up o parallax ligero)
+Paleta de colores: blanco, gris claro #F4F4F4, acento naranja #FF6A00
+Tipografía moderna (Inter o Poppins)
+🚀 CTA final de la sección (opcional):
+¿Listo para controlar todo tu restaurante desde una sola plataforma?
+👉 Solicita tu demo gratuita y empieza a escalar tu negocio
