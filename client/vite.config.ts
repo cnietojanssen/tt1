@@ -13,7 +13,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: "dist",
+    outDir: "public", // 👈 DEBE ser "public", no "dist/public"
     emptyOutDir: true,
-  },
+  },  
 });
